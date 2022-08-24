@@ -4,6 +4,7 @@ import java.util.ArrayList;
 
 public class Zoo {
     // The IAnimal interface doesn't exist yet, can you fix the error?
+    // We fixed it without fixing it
     public ArrayList<IAnimal> allAnimals;
 
     public Zoo() {
